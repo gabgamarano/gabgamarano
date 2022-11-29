@@ -1,6 +1,6 @@
 ## Oláaa!
 
-### Escute um lo-fizinho 🎶 [lo-fi](https://www.youtube.com/watch?v=jfKfPfyJRdk) enquanto isso! :D
+### Escute um lo-fizinho 🎶 [lo-fi](https://www.youtube.com/watch?v=jfKfPfyJRdk) 🎶 :D
 
 - 📚 Cursando Matemática Aplicada e Computacional no [IME](https://www.ime.usp.br)
 - 👨‍💻 Estudo Front-End na [Origamid](https://www.origamid.com) e Back-End na universidade
