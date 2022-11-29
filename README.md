@@ -3,7 +3,7 @@
 ### Escute um lo-fizinho 🎶 [lo-fi](https://www.youtube.com/watch?v=jfKfPfyJRdk) enquanto isso! :D
 
 - 📚 Cursando Matemática Aplicada e Computacional no [IME](https://www.ime.usp.br)
-- 👨‍💻 Estudo Front-End na ([Origamid](https://www.origamid.com)) e Back-End na universidade
+- 👨‍💻 Estudo Front-End na [Origamid](https://www.origamid.com) e Back-End na universidade
 - 🚀 Planejo ingressar na área como programador Full-Stack
 - 🤖 Futuramente pretendo aprender as linguagens de desenvolvimento Android e IOS
 
