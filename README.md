@@ -5,7 +5,7 @@
 - 📚 Cursando Matemática Aplicada e Computacional no [IME](https://www.ime.usp.br)
 - 👨‍💻 Estudo Front-End na [Origamid](https://www.origamid.com) e Back-End na universidade
 - 🚀 Planejo ingressar na área como programador Full-Stack
-- 🤖 Futuramente pretendo aprender as linguagens de desenvolvimento Android e iOS
+- 🤖 Futuramente pretendo aprender linguagens de desenvolvimento Android e iOS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
