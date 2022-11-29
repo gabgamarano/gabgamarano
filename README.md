@@ -17,3 +17,11 @@
 <div><br>
    
   <a href="https://www.linkedin.com/in/gabrielgamarano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+## Meus jogos favoritos!
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-TLOU2" height="165" width="135" src="https://static-cdn.jtvnw.net/ttv-boxart/494552_IGDB-285x380.jpg">
+  <img align="center" alt="Gabriel-Uncharted4" height="165" width="135" src="https://static-cdn.jtvnw.net/ttv-boxart/458641_IGDB-285x380.jpg">
+  <img align="center" alt="Gabriel-SpiderMan" height="165" width="135" src="https://static-cdn.jtvnw.net/ttv-boxart/1262047844_IGDB-285x380.jpg">
+  <img align="center" alt="Gabriel-GoW" height="165" width="135" src="https://static-cdn.jtvnw.net/ttv-boxart/6369_IGDB-285x380.jpg">
