@@ -27,7 +27,7 @@
 <div style="display: inline_block"><br>
 
 ## Streamers que acompanho!
-<a href="https://www.twitch.tv/luidematos"><img align="top" alt="Gabriel-luidematos" height="50" width="50" src="https://static-cdn.jtvnw.net/jtv_user_pictures/77bfcd2d-9e88-4955-bc81-1de9f415ee5d-profile_image-150x150.png">
+<a target="_blank" href="https://www.twitch.tv/luidematos"><img align="top" alt="Gabriel-luidematos" height="50" width="50" src="https://static-cdn.jtvnw.net/jtv_user_pictures/77bfcd2d-9e88-4955-bc81-1de9f415ee5d-profile_image-150x150.png">
  <a href="https://www.twitch.tv/tioorochitwitch"><img align="top" alt="Gabriel-pisca" height="50" width="50" src="https://static-cdn.jtvnw.net/jtv_user_pictures/b99a08d2-29ab-4ff1-99eb-01246d41efb7-profile_image-150x150.png">
  <a href="https://www.twitch.tv/casimito"><img align="top" alt="Gabriel-caze" height="50" width="50" src="https://static-cdn.jtvnw.net/jtv_user_pictures/32805a78-d927-48bd-8089-bf5efed53ea4-profile_image-70x70.png">
  <a href="https://www.twitch.tv/historiapublica"><img align="top" alt="Gabriel-publica" height="50" width="50" src="https://static-cdn.jtvnw.net/jtv_user_pictures/29b5afdf-371f-4fcf-81cf-9247dcf093d6-profile_image-150x150.png">
