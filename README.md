@@ -1,6 +1,6 @@
-## Oláaa!
+## Suave?
 
-### Escute um lo-fizinho 🎶 [lo-fi](https://www.youtube.com/watch?v=jfKfPfyJRdk) 🎶 :D
+### 🎶 [lo-fi](https://www.youtube.com/watch?v=jfKfPfyJRdk) 🎶 :D
 
 - 📚 Cursando Matemática Aplicada e Computacional no [IME](https://www.ime.usp.br)
 - 👨‍💻 Estudo Front-End na [Origamid](https://www.origamid.com) e Back-End na universidade
@@ -30,5 +30,5 @@
 <a target="_blank" href="https://www.twitch.tv/luidematos"><img align="top" alt="Gabriel-luidematos" height="50" width="50" src="https://static-cdn.jtvnw.net/jtv_user_pictures/77bfcd2d-9e88-4955-bc81-1de9f415ee5d-profile_image-150x150.png">
  <a href="https://www.twitch.tv/tioorochitwitch"><img align="top" alt="Gabriel-pisca" height="50" width="50" src="https://static-cdn.jtvnw.net/jtv_user_pictures/b99a08d2-29ab-4ff1-99eb-01246d41efb7-profile_image-150x150.png">
  <a href="https://www.twitch.tv/casimito"><img align="top" alt="Gabriel-caze" height="50" width="50" src="https://static-cdn.jtvnw.net/jtv_user_pictures/32805a78-d927-48bd-8089-bf5efed53ea4-profile_image-70x70.png">
- <a href="https://www.twitch.tv/historiapublica"><img align="top" alt="Gabriel-publica" height="50" width="50" src="https://static-cdn.jtvnw.net/jtv_user_pictures/29b5afdf-371f-4fcf-81cf-9247dcf093d6-profile_image-150x150.png">
+ <a href="https://www.twitch.tv/historiapublica"><img align="top" alt="Gabriel-publica" height="50" width="50" src="https://static-cdn.jtvnw.net/jtv_user_pictures/8ad2d607-9855-481a-9635-b4c6176944a0-profile_image-70x70.png">
  <a href="https://www.twitch.tv/historiacabeluda"><img align="top" alt="Gabriel-cabeludo" height="50" width="50" src="https://static-cdn.jtvnw.net/jtv_user_pictures/4deaeea4-0873-4935-b04d-321c65f07058-profile_image-150x150.png">
