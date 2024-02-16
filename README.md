@@ -1,5 +1,3 @@
-## suave?
-
 - 📚 Cursando Matemática Aplicada e Computacional no [IME](https://www.ime.usp.br)
 - 👨‍💻 Estudante de Front e Back-End
 - 🚀 Full-Stack
