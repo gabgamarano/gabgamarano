@@ -1,7 +1,7 @@
-# 🌌 Gabriel Gamarano | Math + Code + Data 
+Math + Code + Data 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5hNnBvZGd4dXl4Z3F6Y2VlZ2ZzNnRybGJ6dGQ5dW5qZHF5eGZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Dino Runner">
+  <img src="https://static.appgeek.com.br/imagens/dino-non-birthday-version-0.gif" width="300" alt="Dino Runner">
 </div>
 
 ## 🎮 Digital Alchemist
