@@ -1,4 +1,4 @@
-Math + Code + Data 
+## Math + Code + Data
 
 <div align="center">
   <a 
@@ -7,19 +7,8 @@ Math + Code + Data
   </a>
 </div>
 
-## 🎮 Digital Alchemist
-```python
-class Bio:
-    def __init__(self):
-        self.identity = "Math-Programming Hybrid"
-        self.focus = ["Data Science", "Full-Stack Dev", "Algorithmic Music"]
-        self.currently = "Applied Math & CS @ [IME-USP](https://www.ime.usp.br)"
-        self.passions = ["Python Sorcery", "SQL Mysteries", "Game Dev Physics"]
-        
-    def stack(self):
-        return [
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40"/>,
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>,
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40"/>,
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-        ]
+## Ferramentas que eu me especializo
+
+<img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" /> <img width="12" />
+<img src="https://skillicons.dev/icons?i=py,sql,mysql,postgresql,postman" height="60" />
+<img src="https://skillicons.dev/icons?i=pandas,numpy,git,github,vscode" height="60" />
