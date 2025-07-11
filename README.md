@@ -1,4 +1,4 @@
-## Math + Code + Data
+## math + code + data
 
 <div align="center">
   <a 
@@ -7,11 +7,11 @@
   </a>
 </div>
 
-## Ferramentas que acho daorinha
+## ferramentas que utilizo (no momento)
 
 <img src="https://skillicons.dev/icons?i=py,sql,mysql,postgresql,pandas,numpy,git,github,vscode" height="60" />
 
-## Música pra ir trabaia
+## música pra ir trabaia
 
 <table>
   <tr>
