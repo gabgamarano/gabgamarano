@@ -12,3 +12,8 @@
 <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
 <img src="https://skillicons.dev/icons?i=sql,mysql,postgresql" height="60" />
 <img src="https://skillicons.dev/icons?i=pandas,numpy,git,github,vscode" height="60" />
+
+<style>
+  .skill-icons { margin: 0 5px; transition: transform 0.3s; }
+  .skill-icons:hover { transform: scale(1.1); }
+</style>
