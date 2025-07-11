@@ -13,7 +13,7 @@
 
 ## Música pra ir trabaia
 
-[![metrô sp](https://img.shields.io/badge/Sammy%20Sam%20Pt.1-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2M1OTLxQKYYm7RcXJu36oS?si=121ae4eb21d248d2)
+[metrô sp](https://img.shields.io/badge/Sammy%20Sam%20Pt.1-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2M1OTLxQKYYm7RcXJu36oS?si=121ae4eb21d248d2)
 <table>
   <tr>
     <td  align="center">
