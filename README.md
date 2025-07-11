@@ -1,7 +1,7 @@
 Math + Code + Data 
 
 <div align="center">
-  <img src="https://static.appgeek.com.br/imagens/dino-non-birthday-version-0.gif" width="300" alt="Dino Runner">
+  <img src="https://static.appgeek.com.br/imagens/dino-non-birthday-version-0.gif" width="1000" alt="Dino Runner">
 </div>
 
 ## 🎮 Digital Alchemist
