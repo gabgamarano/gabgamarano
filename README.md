@@ -9,6 +9,5 @@
 
 ## Ferramentas que eu me especializo
 
-<img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" /> <img width="12" />
-<img src="https://skillicons.dev/icons?i=py,sql,mysql,postgresql,postman" height="60" />
+<img src="https://skillicons.dev/icons?i=py,sql,mysql,postgresql" height="60" />
 <img src="https://skillicons.dev/icons?i=pandas,numpy,git,github,vscode" height="60" />
