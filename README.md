@@ -11,9 +11,7 @@
 
 <img src="https://skillicons.dev/icons?i=py,sql,mysql,postgresql,pandas,numpy,git,github,vscode" height="60" />
 
-## música pra ir trabaia
-
-<table>
+## andando por sp
   <tr>
     <td align="center" width="100">
       <a href="https://open.spotify.com/playlist/2M1OTLxQKYYm7RcXJu36oS?si=121ae4eb21d248d2">
@@ -24,4 +22,3 @@
       <img src="https://media1.tenor.com/m/0TPfh0gf7EcAAAAd/christian-bale-american-psycho.gif" width="150" alt="Music Gif" />
     </td>
   </tr>
-</table>
